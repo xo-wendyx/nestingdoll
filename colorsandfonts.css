@@ -35,18 +35,20 @@
 }
 
 .red {
-	  background-color: #fff;
-	  min-height:25px;
+	  background-color: #980D01;
 }
 
-.dark_blue {
-  background-color: #2a457a;
+.black {
+  background-color: #1A1F0C;
 }
 
-.light_blue {
-  background-color: #099dd9;
+.white {
+  background-color: #FFF6E8;
 }
 
-.green {
-  background-color: #0c8542;
+.mustard_yellow {
+  background-color: #E59B27;
+}
+.ugly_brown {
+	background-color: #A14511
 }
