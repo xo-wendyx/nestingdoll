@@ -1,7 +1,37 @@
  
-.box {
-  min-height: 100px;
-  width: 100%;
+.box1 {
+  min-height: 40vh;
+  width: 28%;
+  margin: auto;
+  display: inline-table;
+}
+
+.box2 {
+  min-height: 40vh;
+  width: 53%;
+  margin: auto;
+  display: inline-table;
+}
+
+.box3 { 
+  min-height: 40vh;
+  width: 18%;
+  margin: auto;
+  display: inline-table;
+}
+
+.box4 {
+  min-height: 54vh;
+  width: 46%;
+  margin: auto;
+  display: inline-table;
+}
+
+.box5 {
+  min-height: 54vh;
+  width: 53%;
+  margin: auto;
+  display: inline-table;
 }
 
 .white {
@@ -20,22 +50,3 @@
 .green {
   background-color: #0c8542;
 }
-
-h1 {
-	font-family: 'Baloo Bhaijaan', cursive;
-	padding-bottom: 10px;
-}
-
-h2 {
-	font-family: 'Baloo Bhaijaan', cursive;
-	font-family: 'Roboto', sans-serif;
-	padding-bottom: 30px;
-}
-
-h3 {
-	font-family: 'Droid Serif', serif;
-	padding-bottom: 50px;
-}
-
-
- 
