@@ -38,6 +38,22 @@ h1 {
   display: inline-table;
 }
 
+.meddon {
+	font-family: 'Meddon', cursive;
+}
+
+.open {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.crimson { 
+	font-family: 'Crimson Text', serif;
+}
+
+.arvo {
+	font-family: 'Arvo', serif;
+}
+
 .red {
 	  background-color: #980D01;
 }
