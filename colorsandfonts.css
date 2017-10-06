@@ -10,32 +10,35 @@
 }
 
 .box1 {
-	height: 30%;
-	width: 50%;
-	display: block;
-	float: left;
+	min-height: 40vh;
+  	width: 28%;
+  	margin: auto;
+  	display: inline-table;
+	font-family: 'Meddon', cursive;
 }
 
 .box2 {
- 	height: 30%;
-	width: 30%;
-	display: block;
-	
-	
+	min-height: 40vh;
+  	width: 53%;
+  	margin: auto;
+  	display: inline-table;
+	font-family: 'Open Sans', sans-serif;	
 }
 
 .box3 { 
-  	height: 20%;
-	width: 30%;
-	display: block; 
-	float: right; 
+  	min-height: 40vh;
+  	width: 18%;
+  	margin: auto;
+  	display: inline-table; 
+	font-family: 'Crimson Text', serif;
 }
 
 .box4 {
-	height: 50%;
-	width: 70%;
-	display: block;
-	float: left; 
+	min-height: 52vh;
+  	width: 46%;
+ 	margin: auto;
+ 	display: inline-table;
+	font-family: 'Arvo', serif;
 }
 
 h1 {
@@ -43,25 +46,10 @@ h1 {
 }
 
 .box5 {
- 	height: 70%;
-	width: 50%;
- 	display: block;
-	float: right; 
-}
-
-.meddon {
-	font-family: 'Meddon', cursive;
-}
-
-.open {
-	font-family: 'Open Sans', sans-serif;
-}
-
-.crimson { 
-	font-family: 'Crimson Text', serif;
-}
-
-.arvo {
+ 	min-height: 52vh;
+  	width: 53%;
+  	margin: auto;
+  	display: inline-table;
 	font-family: 'Arvo', serif;
 }
 
