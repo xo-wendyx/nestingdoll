@@ -1,6 +1,7 @@
  body {
   text-align: center; 
   text-decoration: underline;
+  background-color: black;	
 }
 .box1 {
 	min-height: 40vh;
